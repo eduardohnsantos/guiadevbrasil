@@ -1,15 +1,5 @@
 ## 📚 GUIA EXTENSO DE PROGRAMAÇÃO
 
-⚠️ AVISO IMPORTANTE ⚠️
-
-🌟 Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras: 🌟 <br>
-
-🔖 Me segue no Github: https://github.com/arthurspk/ 👨🏻‍💻 <br>
-🔖 Entra no servidor Guia Dev Brasil para mais conteúdo: https://discord.gg/NbMQUPjHz7 💻 <br>
-🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/arthurspk/ 🌈 <br>
-🔖 Fazendo uma doação via PIX a chave é: arthurcoutinho2@hotmail.com ✔️ <br>
-
-♻️ Segue meu Github novos repositórios quase toda semana, deixa seu star no repositório, compartilha com seus amigos, e por fim, bons estudos ou bom trabalho, faça bom uso!! ♻️ <br>
 
 ## 📚 ÍNDICE
 
